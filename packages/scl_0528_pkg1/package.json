@@ -1,5 +1,5 @@
 {
-  "name": "pkg1",
+  "name": "scl_0528_pkg1",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "姗姗来迟 <sunchengli@weiyankeji.cn>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/sclchic/lerna_test3/issues"
-  }
+  },
+  "gitHead": "cf6bb3fafd92e6bc5698dfa736577e7af876f3a4"
 }
